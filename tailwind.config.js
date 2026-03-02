@@ -1,18 +1,14 @@
-// tailwind.config.js
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: [
-    "./index.html",
-    "./src/**/*.{js,jsx,ts,tsx}"
-  ],
+  content: ["./index.html", "./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
       colors: {
-        "morado": "#7C3AED",
-        "morado-oscuro": "#5B21B6",
-        "morado-claro": "#EDE9FE",
+        senaPurple: "#7c3aed",
+        senaPurpleDark: "#5b21b6",
       },
     },
   },
   plugins: [],
-}
+};
+
