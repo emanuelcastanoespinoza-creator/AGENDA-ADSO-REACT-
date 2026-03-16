@@ -8,11 +8,11 @@
       "etiqueta": "Estudiante"
     },
     {
+      "id": "2c64",
       "nombre": "ana martina",
       "telefono": "3007 7627698",
       "correo": "ana4567@gmail.com",
-      "etiqueta": "profesora",
-      "id": "2c64"
+      "etiqueta": "profesora"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
